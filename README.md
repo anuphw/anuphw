@@ -14,7 +14,7 @@ Bombay and later did a PhD in Operations Management at INSEAD.
 
 ## A few things I have made
 
-- [AI Marathi](https://github.com/anuphw/aimarathi) — free, practical guides to
+- [AI Marathi](https://anuphw.github.io/aimarathi/) — free, practical guides to
   AI tools in Marathi.
 - [Claude Code Tutorial for Researchers](https://github.com/anuphw/cc-research-tutorial)
   — a hands-on tutorial site for using Claude Code in research work.
