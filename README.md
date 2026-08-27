@@ -16,6 +16,8 @@ Bombay and later did a PhD in Operations Management at INSEAD.
 
 - [AI Marathi](https://anuphw.github.io/aimarathi/) — free, practical guides to
   AI tools in Marathi.
+- [instamarathi books](https://instamarathi.github.io/books/) — a mobile-first
+  collection of Marathi books.
 - [Claude Code Tutorial for Researchers](https://github.com/anuphw/cc-research-tutorial)
   — a hands-on tutorial site for using Claude Code in research work.
 - [Zerodha History](https://github.com/anuphw/zerodha_history) — turns a Zerodha
