@@ -34,9 +34,6 @@ applied statistics, operations management, and production-grade ML.
 - [AI Marathi](https://github.com/anuphw/aimarathi) — free Marathi-language
   tutorials for practical AI tools, aimed at students, creators, and
   professionals.
-- [LLM Teaching](https://github.com/anuphw/llm-teaching) — a blog series,
-  formal game-theoretic models, and runnable simulations about how advancing
-  LLMs may reshape education.
 - [Claude Code Tutorial for Researchers](https://github.com/anuphw/cc-research-tutorial)
   — interactive lectures, slides, exercises, and quizzes for research workflows.
 
