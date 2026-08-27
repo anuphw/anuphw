@@ -1,76 +1,35 @@
-# Hi, I’m Anup Walvekar
+# Anup Walvekar
 
-**Applied GenAI researcher and ML-systems builder** working across generative
-video, computer vision, large-scale deep learning, and quantitative research.
+I work on generative AI, machine-learning systems, and the occasional market
+research project.
 
-I like hard technical problems that have to survive contact with reality:
-training large models, improving inference systems, building useful research
-tools, and making assumptions visible.
+These days I am a Research Scientist at InVideo. A lot of my work is around
+generative video: training lip-sync models, cleaning and curating data, and
+making models fast enough to be useful in production. I enjoy both parts of the
+job—the model work and the unglamorous systems work around it.
 
-## What I work on
+Before that, I worked on machine vision, optimisation, and quantitative research
+at A*STAR, NUS, Friday.AI, and Dolat Capital. I studied applied statistics at IIT
+Bombay and later did a PhD in Operations Management at INSEAD.
 
-- **Generative AI and multimodal ML** — generative video, GANs, diffusion,
-  transformers, and LLMs.
-- **ML systems** — distributed training, data curation, model optimisation, and
-  production inference.
-- **Quantitative research and financial tooling** — transparent analysis,
-  backtesting, options analytics, and portfolio reporting.
+## A few things I have made
 
-## Recent work
-
-At **InVideo**, I work on generative-video research and production ML systems.
-Recent work includes distributed multi-node training of a lip-sync GAN on 500+
-hours of audio-visual data, automated data-quality curation, and PyTorch /
-TensorRT optimisation that delivered a 3.5× inference speedup.
-
-Previously, I have worked in machine vision, optimisation, and quantitative
-research across A*STAR, NUS, Friday.AI, and Dolat Capital. My background spans
-applied statistics, operations management, and production-grade ML.
-
-## Selected public work
-
-### AI, learning, and research
-
-- [AI Marathi](https://github.com/anuphw/aimarathi) — free Marathi-language
-  tutorials for practical AI tools, aimed at students, creators, and
-  professionals.
+- [AI Marathi](https://github.com/anuphw/aimarathi) — free, practical guides to
+  AI tools in Marathi.
 - [Claude Code Tutorial for Researchers](https://github.com/anuphw/cc-research-tutorial)
-  — interactive lectures, slides, exercises, and quizzes for research workflows.
-
-### Market analytics and systematic research
-
-- [Zerodha History](https://github.com/anuphw/zerodha_history) — comprehensive
-  trading-history reports with benchmark comparisons, XIRR, alpha/beta, Sharpe,
-  Sortino, and drawdown metrics.
-- [IV Dashboard](https://github.com/anuphw/implied_volatility_analysis) —
-  real-time NSE F&O implied-volatility analytics including IV Rank, IV
-  Percentile, IV Mean Ratio, and volatility-jump signals.
-- **NIFTY 50 monthly-rotation research** — a forthcoming reproducible study of
-  Top, Bottom, and mixed monthly-selection rules, with explicit execution
-  assumptions and risk metrics.
-
-### Small, useful software
-
-- [HourlyNotes](https://github.com/anuphw/HourlyNotes) — a native macOS menu-bar
-  app for lightweight hourly activity logging and daily research notes.
+  — a hands-on tutorial site for using Claude Code in research work.
+- [Zerodha History](https://github.com/anuphw/zerodha_history) — turns a Zerodha
+  trading history into a useful P&L and benchmark report.
+- [IV Dashboard](https://github.com/anuphw/implied_volatility_analysis) — NSE
+  options-volatility metrics that I wanted to see in one place.
+- [HourlyNotes](https://github.com/anuphw/HourlyNotes) — a small macOS menu-bar
+  app for remembering what I worked on during the day.
 - [Universal Search Focus](https://github.com/anuphw/universal-search-focus) —
-  a Chrome extension that focuses a site's search box with `/`.
+  press `/` to jump to a website's search box.
 
-## How I work
+I am also putting together a public NIFTY 50 monthly-rotation research project.
+The goal is not to sell a strategy; it is to show the code, assumptions, costs
+that are missing, and the ways a backtest can fool you.
 
-1. Start with a small, testable question.
-2. Build the simplest implementation that can answer it.
-3. Make assumptions and limitations visible.
-4. Improve through evidence, iteration, and feedback.
-
-## A note on market research
-
-My market-related repositories are educational tools and research projects—not
-investment advice, trade recommendations, or performance guarantees. Historical
-results need realistic costs, independent validation, and out-of-sample testing
-before they deserve practical confidence.
-
----
-
-I enjoy thoughtful conversations about generative AI, ML systems, financial
-data, research methods, and useful developer tools.
+Market-related repositories here are for education and research, not investment
+advice or trade recommendations.
