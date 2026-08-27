@@ -1,21 +1,44 @@
 # Hi, I’m Anup Walvekar
 
-I build useful tools and transparent research at the intersection of **AI**,
-**financial data**, and **systematic decision-making**.
+**Applied GenAI researcher and ML-systems builder** working across generative
+video, computer vision, large-scale deep learning, and quantitative research.
 
-I care less about impressive-looking claims than clear assumptions, working
-software, and results that others can inspect.
+I like hard technical problems that have to survive contact with reality:
+training large models, improving inference systems, building useful research
+tools, and making assumptions visible.
 
-## Focus areas
+## What I work on
 
-- **Indian-market analytics** — portfolio reporting, options-volatility tools,
-  and systematic research workflows.
-- **Applied AI and education** — accessible learning resources and models that
-  make complex AI questions easier to explore.
-- **Practical software** — small, focused products that solve real problems
-  without unnecessary complexity.
+- **Generative AI and multimodal ML** — generative video, GANs, diffusion,
+  transformers, and LLMs.
+- **ML systems** — distributed training, data curation, model optimisation, and
+  production inference.
+- **Quantitative research and financial tooling** — transparent analysis,
+  backtesting, options analytics, and portfolio reporting.
 
-## Selected work
+## Recent work
+
+At **InVideo**, I work on generative-video research and production ML systems.
+Recent work includes distributed multi-node training of a lip-sync GAN on 500+
+hours of audio-visual data, automated data-quality curation, and PyTorch /
+TensorRT optimisation that delivered a 3.5× inference speedup.
+
+Previously, I have worked in machine vision, optimisation, and quantitative
+research across A*STAR, NUS, Friday.AI, and Dolat Capital. My background spans
+applied statistics, operations management, and production-grade ML.
+
+## Selected public work
+
+### AI, learning, and research
+
+- [AI Marathi](https://github.com/anuphw/aimarathi) — free Marathi-language
+  tutorials for practical AI tools, aimed at students, creators, and
+  professionals.
+- [LLM Teaching](https://github.com/anuphw/llm-teaching) — a blog series,
+  formal game-theoretic models, and runnable simulations about how advancing
+  LLMs may reshape education.
+- [Claude Code Tutorial for Researchers](https://github.com/anuphw/cc-research-tutorial)
+  — interactive lectures, slides, exercises, and quizzes for research workflows.
 
 ### Market analytics and systematic research
 
@@ -28,17 +51,6 @@ software, and results that others can inspect.
 - **NIFTY 50 monthly-rotation research** — a forthcoming reproducible study of
   Top, Bottom, and mixed monthly-selection rules, with explicit execution
   assumptions and risk metrics.
-
-### AI, learning, and research
-
-- [AI Marathi](https://github.com/anuphw/aimarathi) — free Marathi-language
-  tutorials for practical AI tools, aimed at students, creators, and
-  professionals.
-- [LLM Teaching](https://github.com/anuphw/llm-teaching) — a blog series,
-  formal game-theoretic models, and runnable simulations about how advancing
-  LLMs may reshape education.
-- [Claude Code Tutorial for Researchers](https://github.com/anuphw/cc-research-tutorial)
-  — interactive lectures, slides, exercises, and quizzes for research workflows.
 
 ### Small, useful software
 
@@ -63,5 +75,5 @@ before they deserve practical confidence.
 
 ---
 
-I enjoy thoughtful conversations about applied AI, financial data, research
-methods, and useful developer tools.
+I enjoy thoughtful conversations about generative AI, ML systems, financial
+data, research methods, and useful developer tools.
